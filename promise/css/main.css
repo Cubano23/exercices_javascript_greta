@@ -1,0 +1,15 @@
+body{
+    background: coral;
+}
+p{
+    background-color: burlywood;
+    border: cadetblue 2px solid;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    color:#000;
+}
+button,input,label{
+    margin-top: 15px;
+    padding: 10px;
+}
